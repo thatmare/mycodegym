@@ -43,9 +43,33 @@ Es decir:
 
 ## Code
 
+```
+String.prototype.toJadenCase = function() {
+
+  //return this permite que la función se aplique al mismo objeto que está recibiendo. 
+  return this
+  
+  //separa la cadena por sus espacios: nos deja las palabras solamente
+  .split(" ")
+  
+  //map recorre el objeto y ejecuta lo siguiente para cada uno de los elementos del objeto
+  //en este caso, se declara la variable word, que va a ser cada palabra en su posición 0 (la primera letra), que será transformada a mayúscula, y esta se va a concatenar con el resto de la palabra que ha sido dividida a partir de la primera letra
+  .map(word => word[0].toUpperCase() + word.slice(1))
+  
+  //lo anterior, será unido con el espacio
+  .join(" ");
+}
+```
+
 ## Test
 
+![image](https://user-images.githubusercontent.com/113146161/228070561-cc025e8e-79d2-42ea-9c74-ff38857c5027.png)
+
+## Optimizar
+- Agregar una validación para que solo reciba string.
+- Considerar otros caracteres además del espacio.
+
 ## Enlaces
-[Split de JavaScript](https://www.freecodecamp.org/espanol/news/el-split-de-javascript-como-dividir-una-cadena-de-caracteres-en-un-arreglo-con-js/)
-[Map](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-[Join](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+- [Split de JavaScript](https://www.freecodecamp.org/espanol/news/el-split-de-javascript-como-dividir-una-cadena-de-caracteres-en-un-arreglo-con-js/)
+- [Map](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [Join](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/join)

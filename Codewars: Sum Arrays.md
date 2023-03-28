@@ -8,10 +8,12 @@ Crear una función que devuelva la suma de los números dentro del arreglo. Los 
 
 ## Ejemplos
 
+```
 [1, 2, 3, 4, 5] => [15]
 [1, -2, 3] => [2]
 [-2.5, -4, 1] => [5.5]
 [-5, 7, 4.2] => [6.2]
+```
 
 ## Aproximación
 ## Code

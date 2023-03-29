@@ -56,6 +56,11 @@ function sum (numbers) {
 }
 ```
 
+## Alternativa
+
+![image](https://user-images.githubusercontent.com/113146161/228670358-00e509f2-18a7-4a16-8a01-88abe17ad6da.png)
+
+
 ## Enlaces
 
 [A Guide to the Reduce Method in JavaScript](https://www.freecodecamp.org/news/reduce-f47a7da511a9/)

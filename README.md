@@ -5,3 +5,4 @@ Solución a los retos de programación con explicación REACT (español).
 2. [Edabit: return something to me](https://github.com/thatmare/mycodegym/blob/main/Return%20something%20to%20me.md)
 3. [Codewars: Jaden Casing String](https://github.com/thatmare/mycodegym/blob/main/Codewars:%20Jaden%20Casing%20Strings%20(espa%C3%B1ol).md)
 4. [Codewars: Sentence Smash](https://github.com/thatmare/mycodegym/blob/main/Codwars:%20Sentence%20Smash.md)
+5. [Codewars: Sum Arrays](https://github.com/thatmare/mycodegym/blob/main/Codewars:%20Sum%20Arrays.md)

@@ -7,3 +7,4 @@ Solución a los retos de programación con explicación REACT (español).
 4. [Codewars: Sentence Smash](https://github.com/thatmare/mycodegym/blob/main/Codwars:%20Sentence%20Smash.md)
 5. [Codewars: Sum Arrays](https://github.com/thatmare/mycodegym/blob/main/Codewars:%20Sum%20Arrays.md)
 6. [The Winter: Bigger Two](https://github.com/thatmare/mycodegym/blob/main/Bigger%20Two.md)
+7. [The Winter: Red Ticket](https://github.com/thatmare/mycodegym/blob/main/Red%20Ticket.md)

@@ -8,3 +8,4 @@ Solución a los retos de programación con explicación REACT (español).
 5. [Codewars: Sum Arrays](https://github.com/thatmare/mycodegym/blob/main/Codewars:%20Sum%20Arrays.md)
 6. [The Winter: Bigger Two](https://github.com/thatmare/mycodegym/blob/main/Bigger%20Two.md)
 7. [The Winter: Red Ticket](https://github.com/thatmare/mycodegym/blob/main/Red%20Ticket.md)
+8. [Codewars: Abbreviate a Two Word Name](https://github.com/thatmare/mycodegym/blob/main/Abbreviate%20a%20Two%20Word%20Name.md)

@@ -6,3 +6,4 @@ Solución a los retos de programación con explicación REACT (español).
 3. [Codewars: Jaden Casing String](https://github.com/thatmare/mycodegym/blob/main/Codewars:%20Jaden%20Casing%20Strings%20(espa%C3%B1ol).md)
 4. [Codewars: Sentence Smash](https://github.com/thatmare/mycodegym/blob/main/Codwars:%20Sentence%20Smash.md)
 5. [Codewars: Sum Arrays](https://github.com/thatmare/mycodegym/blob/main/Codewars:%20Sum%20Arrays.md)
+6. [The Winter: Bigger Two](https://github.com/thatmare/mycodegym/blob/main/Bigger%20Two.md)

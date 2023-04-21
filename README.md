@@ -10,3 +10,4 @@ Solución a los retos de programación con explicación REACT (español).
 7. [The Winter: Red Ticket](https://github.com/thatmare/mycodegym/blob/main/Red%20Ticket.md)
 8. [Codewars: Abbreviate a Two Word Name](https://github.com/thatmare/mycodegym/blob/main/Abbreviate%20a%20Two%20Word%20Name.md)
 9. [The Winter: Teen Sum](https://github.com/thatmare/mycodegym/blob/main/Teen%20Sum.md)
+10. [Codewars: List Filtering](https://github.com/thatmare/mycodegym/blob/main/List%20filtering.md)

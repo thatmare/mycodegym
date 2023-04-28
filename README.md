@@ -12,3 +12,4 @@ Solución a retos de programación con método REACT (español).
 9. [The Winter: Teen Sum](https://github.com/thatmare/mycodegym/blob/main/Teen%20Sum.md)
 10. [Codewars: List Filtering](https://github.com/thatmare/mycodegym/blob/main/List%20filtering.md)
 11. [Codewars: Create Phone Number](https://github.com/thatmare/mycodegym/blob/main/Create%20Phone%20Number.md)
+12. [LeetCode: Check If Sentence Is Not A Pangram](https://github.com/thatmare/mycodegym/blob/main/Check%20if%20the%20sentence%20is%20a%20pangram.md)

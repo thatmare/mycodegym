@@ -31,12 +31,18 @@ function reverseWords(str) {
   if(typeof str === 'string') {
     //regresar cada uno dividido: recuerda que regresará un array
     return str.split("")
-    //
-    .reverse().join("").split(" ").reverse().join(" ");
+    //revertir el orden del array(en este caso, de las letras): recuerda que aquí las primeras letras pasarán al final
+    .reverse()
+    //unir(recuerda que se están uniendo con espacios)
+    .join("")
+    //dividir a partir de los espacios(es decir, cada palabra)
+    .split(" ")
+    //revertir el orden de las palabras: ahora, las últimas quedarán al principio y viceversa
+    .reverse()
+    //unir con espacios
+    .join(" ");
   } else {
     return null;
   }
 }
 ```
-
-## Test

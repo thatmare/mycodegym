@@ -1,4 +1,4 @@
-# My Code Gym
+# My Code Gym 🤸‍♀️🏋️‍♀️👩‍💻
 Solución a retos de programación con método REACT (español).
 
 1. [Codewars: cuenta de positivos y suma de negativos](https://github.com/thatmare/codewars/blob/main/challenges/Cuenta%20de%20positivos%20y%20suma%20de%20negativos.md)

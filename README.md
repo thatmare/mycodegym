@@ -14,3 +14,5 @@ Solución a retos de programación con método REACT (español).
 11. [Codewars: Create Phone Number](https://github.com/thatmare/mycodegym/blob/main/challenges/Create%20Phone%20Number.md)
 12. [LeetCode: Check If Sentence Is Not A Pangram](https://github.com/thatmare/mycodegym/blob/main/challenges/Check%20if%20the%20sentence%20is%20a%20pangram.md)
 13. [Codewars: Reverse Words](https://github.com/thatmare/mycodegym/blob/main/challenges/Reverse%20words.md)
+14. [Codewars: Opposites Attract](https://github.com/thatmare/mycodegym/blob/main/challenges/Opposites%20Attract.md)
+15. [Codewars: Is this a triangle?](https://github.com/thatmare/mycodegym/blob/main/challenges/Codewars:%20Is%20this%20a%20triangle%3F.md)

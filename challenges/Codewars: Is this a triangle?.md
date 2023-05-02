@@ -8,6 +8,14 @@ Implementar una función que acepte tres números. La función debe retornar tru
 
 Todos los lados deben ser mayor a 0 para ser aceptados.
 
+## Ejemplos
+```
+isTriangle(1,2,2) => true
+isTriangle(7,2,2) => false
+isTriangle(4,5,10) => false
+isTriangle(3,3,4) => true
+```
+
 ## Aproximación al problema
 
 - Teorema de la desigualidad triangular: cualquier lado de un triángulo debe ser menor a la suma de sus otros dos lados. Es decir: a + b debe ser mayor que c, b + c debe ser mayor a a, c + a debe ser mayor a b. 

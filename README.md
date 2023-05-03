@@ -16,3 +16,4 @@ Solución a retos de programación con método REACT (español).
 13. [Codewars: Reverse Words](https://github.com/thatmare/mycodegym/blob/main/challenges/Reverse%20words.md)
 14. [Codewars: Opposites Attract](https://github.com/thatmare/mycodegym/blob/main/challenges/Opposites%20Attract.md)
 15. [Codewars: Is this a triangle?](https://github.com/thatmare/mycodegym/blob/main/challenges/Codewars:%20Is%20this%20a%20triangle%3F.md)
+16. [Codewars: Lost Without a Map](https://github.com/thatmare/mycodegym/blob/main/challenges/Lost%20Without%20a%20Map.md)

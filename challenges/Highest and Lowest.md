@@ -31,6 +31,8 @@ function highAndLow(numbers){
   let nums = numbers.split(" ").map(n => Number(n)).sort((a,b) => a < b ? 1 : -1);
   return String(nums[0] + " " + nums[nums.length-1]); 
 }
+
+
 ```
 
 ## Test
@@ -45,4 +47,16 @@ function highAndLow(numbers){
   let nums = numbers.split(" ").map(n => Number(n)).sort((a,b) => b - a);
   return nums[0] + " " + nums[nums.length-1]; 
 }
+
+function highAndLow(numbers){
+  numbers = numbers.split(' ');
+  return `${Math.max(...numbers)} ${Math.min(...numbers)}`;
+}
 ```
+
+![image](https://user-images.githubusercontent.com/113146161/236356431-a0f167ae-847e-4251-81a0-6794a9af8b80.png)
+
+- Math.max y Math.min retornan el número mayor y menor, respectivamente, de cero o más números dados como parámetros de entrada. 
+- Devuelve NaN si no es un número o no puede ser convertido a un número.
+- La segunda solución funciona con el spread operator (...) ya que las funciones Math.max() y Math.min() no están diseñadas para tomar un array como argumento. En lugar de eso, toman una lista de argumentos separados. El operador ... se utiliza para expandir los elementos del array como una lista de argumentos.
+- La sintaxis ${} es un tipo de interpolación de cadena en JavaScript que permite incluir expresiones dentro de una cadena de texto

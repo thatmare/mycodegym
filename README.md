@@ -19,3 +19,4 @@ Solución a retos de programación con método REACT (español).
 16. [Codewars: Lost Without a Map](https://github.com/thatmare/mycodegym/blob/main/challenges/Lost%20Without%20a%20Map.md)
 17. [Codewars: Digit*Digit](https://github.com/thatmare/mycodegym/blob/main/challenges/Digit*Digit.md)
 18. [Codewars: Highest and Lowest](https://github.com/thatmare/mycodegym/blob/main/challenges/Highest%20and%20Lowest.md)
+19. [Ejercicios de programación: principiantes](https://github.com/thatmare/mycodegym/blob/main/challenges/Ejercicios%20de%20programaci%C3%B3n:%20principiante.md)

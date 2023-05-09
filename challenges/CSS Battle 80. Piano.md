@@ -1,3 +1,15 @@
+# 80. Piano
+
+[CSS Battle 80. Piano](https://cssbattle.dev/play/80)
+
+## Target
+
+![image](https://github.com/thatmare/mycodegym/assets/113146161/f09852ed-323d-410e-93db-85deadcda8f3)
+
+## Solución
+98.7% match
+
+```
 <div class="container">
   <div class="rotation-container">
     <div class="white-key"></div>
@@ -10,6 +22,7 @@
   </div>
 </div>
 <div class="brown-container">
+    <div class="dark-key"></div>
     <div class="dark-key"></div>
     <div class="dark-key"></div>
     <div class="dark-key"></div>
@@ -44,10 +57,14 @@
     z-index: 1;
     position: absolute;
   }
+  .dark-key:nth-child(4) {
+    opacity: 0;
+  }
   .dark-key {
     background-color: #191919;
-    width: 35px;
-    height: 18px;
-    margin: 2px;
+    width: 36px;
+    height: 15px;
+    margin: 9px 0px 9px -16px;
   }
 </style>
+```

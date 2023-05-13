@@ -22,3 +22,4 @@ Solución a retos de programación con método REACT (español).
 19. [Ejercicios de programación: principiantes](https://github.com/thatmare/mycodegym/blob/main/challenges/Ejercicios%20de%20programaci%C3%B3n:%20principiante.md)
 20. [Ejercicios de programación: intermedio](https://github.com/thatmare/mycodegym/blob/main/challenges/Ejercicios%20de%20programaci%C3%B3n%3A%20intermedio.md)
 21. [getNthElement](https://github.com/thatmare/mycodegym/blob/main/challenges/getNthElement.md)
+22. [convertScoreToGrade](https://github.com/thatmare/mycodegym/blob/main/challenges/convertScoreToGrade.md)

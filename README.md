@@ -24,3 +24,6 @@ Solución a retos de programación con método REACT (español).
 21. [getNthElement](https://github.com/thatmare/mycodegym/blob/main/challenges/getNthElement.md)
 22. [convertScoreToGrade](https://github.com/thatmare/mycodegym/blob/main/challenges/convertScoreToGrade.md)
 23. [filterOddElements](https://github.com/thatmare/mycodegym/blob/main/challenges/filterOddElements.md)
+24. [Good Array](https://github.com/thatmare/mycodegym/blob/main/challenges/Good%20array.md)
+25. [Codewars: Isograms](https://github.com/thatmare/mycodegym/blob/main/challenges/Isograms.md)
+26. [Codewars: Detect Pangram](https://github.com/thatmare/mycodegym/blob/main/challenges/Detect%20Pangram.md)

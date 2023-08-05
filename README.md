@@ -27,3 +27,4 @@ Solución a retos de programación con método REACT (español).
 24. [Good Array](https://github.com/thatmare/mycodegym/blob/main/challenges/Good%20array.md)
 25. [Codewars: Isograms](https://github.com/thatmare/mycodegym/blob/main/challenges/Isograms.md)
 26. [Codewars: Detect Pangram](https://github.com/thatmare/mycodegym/blob/main/challenges/Detect%20Pangram.md)
+27. [Stringitis](https://github.com/thatmare/mycodegym/blob/main/challenges/Stringitis.md)

@@ -28,3 +28,4 @@ Solución a retos de programación con método REACT (español).
 25. [Codewars: Isograms](https://github.com/thatmare/mycodegym/blob/main/challenges/Isograms.md)
 26. [Codewars: Detect Pangram](https://github.com/thatmare/mycodegym/blob/main/challenges/Detect%20Pangram.md)
 27. [Stringitis](https://github.com/thatmare/mycodegym/blob/main/challenges/Stringitis.md)
+28. [Codewars: Two to one](https://github.com/thatmare/mycodegym/blob/main/challenges/Two%20to%20one.md)

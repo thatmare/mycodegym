@@ -29,3 +29,4 @@ Solución a retos de programación con método REACT (español).
 26. [Codewars: Detect Pangram](https://github.com/thatmare/mycodegym/blob/main/challenges/Detect%20Pangram.md)
 27. [Stringitis](https://github.com/thatmare/mycodegym/blob/main/challenges/Stringitis.md)
 28. [Codewars: Two to one](https://github.com/thatmare/mycodegym/blob/main/challenges/Two%20to%20one.md)
+29. [Codesignal: Make Array Consecutive 2](https://github.com/thatmare/mycodegym/blob/main/challenges/Codesignal%3A%20Make%20Array%20Consecutive.md)

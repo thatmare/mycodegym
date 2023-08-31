@@ -32,3 +32,4 @@ Solución a retos de programación con método REACT (español).
 29. [Codesignal: Make Array Consecutive 2](https://github.com/thatmare/mycodegym/blob/main/challenges/Codesignal%3A%20Make%20Array%20Consecutive.md)
 30. [The Winter: mapBully](https://github.com/thatmare/mycodegym/blob/main/challenges/The%20Winter%20Hub%3A%20mapBully.md)
 31. [The Winter: front22](https://github.com/thatmare/mycodegym/blob/main/challenges/The%20Winter%3A%20front22.md)
+32. [Codewars: You're a square!](https://github.com/thatmare/mycodegym/blob/main/challenges/Codewars:%20You're%20a%20square!.md)

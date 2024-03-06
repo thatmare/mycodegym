@@ -28,4 +28,28 @@ Output: [0,1]
 
 ## Aproximación
 
+- Crear la variable de `complement`, esta almacena la resta del número `target` menos el número actual de la iteración.
+- Iteramos sobre el array
+- Almacenamos el número actual y su posición en un objeto.
+- Si los pares clave-valor coinciden con el número `complement`, se retorna su posición en el array.
+
 ##Código
+
+````
+function twoSum(nums: number[], target: number): number[] {
+    const numMap = {};
+
+    for (let i = 0; i < nums.length; i++) {
+        const complement = target - nums[i];
+
+        if (numMap.hasOwnProperty(complement)) {
+            return [numMap[complement], i];
+        }
+
+        numMap[nums[i]] = i;
+    }
+
+    return [];
+}
+
+````

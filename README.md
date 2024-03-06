@@ -34,3 +34,4 @@ Solución a retos de programación con método REACT (español).
 31. [The Winter: front22](https://github.com/thatmare/mycodegym/blob/main/challenges/The%20Winter%3A%20front22.md)
 32. [Codewars: You're a square!](https://github.com/thatmare/mycodegym/blob/main/challenges/Codewars:%20You're%20a%20square!.md)
 33. [LeetCode: Merged Sorted Array](https://github.com/thatmare/mycodegym/blob/main/challenges/Merged%20Sorted%20Array.md)
+34. [LeetCode: Two Sums](https://github.com/thatmare/mycodegym/blob/main/challenges/Two%20Sum.md)

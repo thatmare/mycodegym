@@ -35,3 +35,4 @@ Solución a retos de programación con método REACT (español).
 32. [Codewars: You're a square!](https://github.com/thatmare/mycodegym/blob/main/challenges/Codewars:%20You're%20a%20square!.md)
 33. [LeetCode: Merged Sorted Array](https://github.com/thatmare/mycodegym/blob/main/challenges/Merged%20Sorted%20Array.md)
 34. [LeetCode: Two Sums](https://github.com/thatmare/mycodegym/blob/main/challenges/Two%20Sum.md)
+35. [AdventJS: Reto 3 Organizando el inventario](https://github.com/thatmare/mycodegym/blob/main/challenges/AdventJS%3A%20Challenge%20%233%20Organizing%20the%20Inventory.md)

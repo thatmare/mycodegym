@@ -1,7 +1,7 @@
 # My Code Gym 🤸‍♀️🏋️‍♀️👩‍💻
 Solución a retos de programación con método REACT (español).
 
-1.[AdventJS: Reto 12: 💵 ¿Cuánto cuesta el arbolito?](https://github.com/thatmare/mycodegym/blob/main/challenges/AdventJS%3A%20Reto%2012%3A%20%F0%9F%92%B5%20%C2%BFCu%C3%A1nto%20cuesta%20el%20arbolito%3F.md)
+1. [AdventJS: Reto 12: 💵 ¿Cuánto cuesta el arbolito?](https://github.com/thatmare/mycodegym/blob/main/challenges/AdventJS%3A%20Reto%2012%3A%20%F0%9F%92%B5%20%C2%BFCu%C3%A1nto%20cuesta%20el%20arbolito%3F.md)
 2. [Codewars: cuenta de positivos y suma de negativos](https://github.com/thatmare/codewars/blob/main/challenges/Cuenta%20de%20positivos%20y%20suma%20de%20negativos.md)
 3. [Edabit: return something to me](https://github.com/thatmare/mycodegym/blob/main/challenges/Return%20something%20to%20me.md)
 4. [Codewars: Jaden Casing String](https://github.com/thatmare/mycodegym/blob/main/challenges/Codewars:%20Jaden%20Casing%20Strings%20(espa%C3%B1ol).md)
